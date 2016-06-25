@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">B19_Activity2</string>
+    <string name="startActivity2String">Start Activity2</string>
+    <string name="startActivity3String">Start Activity3</string>
+    <string name="activity2String">This is Activity 2</string>
+
+    <string name="success">Success</string>
+    <string name="failure">Failure</string>
+</resources>
